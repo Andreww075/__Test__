@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ad1ac1b.css",
+    "main.js": "/static/js/main.9745b2a0.js",
+    "static/media/shopping-cart.png": "/static/media/shopping-cart.1ab0e942dfb3bb88306e.png",
+    "static/media/wheater-api.png": "/static/media/wheater-api.80da935add1886c44d1f.png",
+    "static/media/calculator.png": "/static/media/calculator.edf01da31ffee550097d.png",
+    "static/media/tic-tac-toe.png": "/static/media/tic-tac-toe.7accad49ea3dff4d59fb.png",
+    "static/media/portfolio.png": "/static/media/portfolio.d9e73d6e3f82e2f85258.png",
+    "static/media/sass.svg": "/static/media/sass.903cef0c9879296f452e2bd0364f58e9.svg",
+    "static/media/reactjs.svg": "/static/media/reactjs.f57b349b4d9df56c9b48c916a8d5adfb.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.cccdafa931eebdaea49f5c5ac3ba232f.svg",
+    "static/media/avatar.svg": "/static/media/avatar.e54380315ee706e69b1d23b005dcb74a.svg",
+    "static/media/gmail.svg": "/static/media/gmail.49c660765c639b6fa962db65d8419915.svg",
+    "static/media/sublime-text.svg": "/static/media/sublime-text.21a046abee498fbe3ca92b4b371fc043.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.5775501c85b4c72b1c5b96600c48b25e.svg",
+    "static/media/npm.svg": "/static/media/npm.b6254c173d3117022d6e47665c97c336.svg",
+    "static/media/twitter.svg": "/static/media/twitter.fe06d572bd13680e66f4d31fc7cf1832.svg",
+    "static/media/github.svg": "/static/media/github.5b391347e12ca0d48a30d71948da9d21.svg",
+    "index.html": "/index.html",
+    "static/media/javascript.svg": "/static/media/javascript.081325c6f229605dce15142ddd948d6d.svg",
+    "static/media/git.svg": "/static/media/git.43d387b77657117c0e407816cbf72476.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.9c0ddb27b6ba0e148fd0ff2b15aef397.svg",
+    "static/media/css3.svg": "/static/media/css3.3ec320225ef851ed26cf9fd1c6ebaa54.svg",
+    "static/media/html5.svg": "/static/media/html5.c1bb84e022ca9d76984d4b943bd678fd.svg",
+    "main.2ad1ac1b.css.map": "/static/css/main.2ad1ac1b.css.map",
+    "main.9745b2a0.js.map": "/static/js/main.9745b2a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad1ac1b.css",
+    "static/js/main.9745b2a0.js"
+  ]
+}
